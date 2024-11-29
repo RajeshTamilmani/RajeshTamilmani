@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5687494-Enjoy-Your-Work%2Fattachments%2F11001142%3Fmode%3Dmedia&psig=AOvVaw3T4QkPpe3iQi_eevr5SkO9&ust=1732949796582000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIipt577gIoDFQAAAAAdAAAAABAZ"alt="Professional GIF" />
+  <img height="200" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cwceportal.com%2F&psig=AOvVaw3T4QkPpe3iQi_eevr5SkO9&ust=1732949796582000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIipt577gIoDFQAAAAAdAAAAABAh"alt="Professional GIF" />
 </div>
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">Proactive IT student and Pega-certified, skilled in crafting innovative, user-friendly solutions.</h3>
