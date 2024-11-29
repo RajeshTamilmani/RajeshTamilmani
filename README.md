@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="300" src="[image](https://github.com/user-attachments/assets/196646c4-3f83-4d46-87f1-caa95de9c4d9)"
+  <img height="200" width="300" src=[image](https://github.com/user-attachments/assets/196646c4-3f83-4d46-87f1-caa95de9c4d9)
  alt="Professional GIF" />
 </div>
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
