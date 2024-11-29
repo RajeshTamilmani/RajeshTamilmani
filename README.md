@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="200" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cwceportal.com%2F&psig=AOvVaw3T4QkPpe3iQi_eevr5SkO9&ust=1732949796582000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIipt577gIoDFQAAAAAdAAAAABAh"alt="Professional GIF" />
+  <img height="200" width="300" src="[image](https://github.com/user-attachments/assets/196646c4-3f83-4d46-87f1-caa95de9c4d9)"
+ alt="Professional GIF" />
 </div>
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">Proactive IT student and Pega-certified, skilled in crafting innovative, user-friendly solutions.</h3>
